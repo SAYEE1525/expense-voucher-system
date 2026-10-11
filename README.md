@@ -1,4 +1,4 @@
-# Expense Voucher Management System made by Sayee Kulkarni
+# Expense Voucher Management System made by Sayee ulkarni
 Full-stack app that digitises expense voucher creation, Director approval and Accounts tracking.
 
 **Stack:** React (Vite) · Node.js + Express · SQLite (better-sqlite3) · JWT auth · Multer (image upload)
