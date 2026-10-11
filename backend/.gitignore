@@ -1,0 +1,5 @@
+uploads/*
+!uploads/.gitkeep
+data/
+node_modules/
+.env
