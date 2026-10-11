@@ -1,4 +1,4 @@
-# Expense Voucher Management System made by sayee kulkarni
+# Expense Voucher Management System made by Sayee Kulkarni
 Full-stack app that digitises expense voucher creation, Director approval and Accounts tracking.
 
 **Stack:** React (Vite) · Node.js + Express · SQLite (better-sqlite3) · JWT auth · Multer (image upload)
@@ -73,22 +73,4 @@ All routes except login need `Authorization: Bearer <token>`. Errors: `{ "messag
 - Currency is INR. Voucher date is the date of creation; Employee ID comes from the user profile.
 - Accounts can print / save a voucher as PDF through the browser print dialog.
 - Users are seeded; there is no sign-up or user-management screen.
-## Screenshots
 
-### Login
-![Login](screenshots/login.png)
-
-### Employee Dashboard
-![Employee Dashboard](screenshots/employee-dashboard.png)
-
-### Create Voucher
-![Create Voucher](screenshots/create-voucher.png)
-
-### Director Approval
-![Director Approval](screenshots/director-approval.png)
-
-### Accounts All Vouchers
-![Accounts List](screenshots/accounts-list.png)
-
-### Voucher Details
-![Voucher Detail](screenshots/voucher-detail.png)
